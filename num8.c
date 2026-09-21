@@ -9,5 +9,4 @@ int main (){
     scanf("%d",&number);
     MultiplicationTable(number);
     return 0;
-
 }
